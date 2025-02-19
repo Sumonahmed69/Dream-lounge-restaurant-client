@@ -1,0 +1,445 @@
+[
+    {
+        "name": " Chicken Cashew Nut Salad",
+        "recipe": "Tomatoes, cucumber, fried cashewnut, chicken served with chef’s special dressing",
+        "image": "https://img.freepik.com/premium-photo/cashew-nut-cashewnut-salad-served-dish-isolated-background-top-view-bangladesh-food_689047-5460.jpg?w=740",
+        "category": "salad",
+        "price": 480
+    },
+    {
+        "name": "Retro cocktail recipes",
+        "recipe": "Make a colourful retro cocktail using our best ever drinks recipes. Get the party started with a ",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/01/retro-cocktails-b12b00d.jpg",
+        "category": "drinks",
+        "price": 250
+    },
+    {
+        "name": "Red Devil",
+        "recipe": "The Red Devil cocktail is a fruity and sweet concoction with a hint of tartness. It has a strong, ",
+        "image": "https://i.pinimg.com/736x/52/bf/5c/52bf5c42e26bed31ad28d1f0e1a9229a.jpg",
+        "category": "drinks",
+        "price": 250
+    },
+    {
+        "name": "tequila sunrise cocktails",
+        "recipe": "Throw a cocktail party to celebrate summer. Our refreshing summer cocktail recipes range ",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/06/Tequila-sunrise-fb8b3ab.jpg?quality=90&resize=556,505",
+        "category": "drinks",
+        "price": 250
+    },
+    {
+        "name": "Blue Lagoon Cocktail",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://simmerandsauce.com/wp-content/uploads/2022/08/DSC06883-768x1114.jpg",
+        "category": "drinks",
+        "price": 200
+    },
+    {
+        "name": "Pineapple Punch",
+        "recipe": "Blend pineapple and sugar into a creamy mix and pour it into a pitcher. ",
+        "image": "https://www.realsimple.com/thmb/2fWs6SwNgytqvnw3zFEaoaJLeq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mai-tai_0-477263b717c24611afb5d7963298bff2.jpg",
+        "category": "drinks",
+        "price": 200
+    },
+    {
+        "name": "Limoncello Spritz",
+        "recipe": "Straight from Italy to you - make a limoncello drink with Prosecco and club soda. The perfect spritz ",
+        "image": "https://www.crazyforcrust.com/wp-content/uploads/2024/03/limoncello-spritz-recipe-5.jpg",
+        "category": "drinks",
+        "price": 220
+    },
+    {
+        "name": "Watermelon Cocktails",
+        "recipe": "Watermelon Cocktails are the perfect refreshing drink to sip on this summer! Easy, light and made with 4 ingredients ",
+        "image": "https://www.kimscravings.com/wp-content/uploads/2019/07/vodka-watermelon-cocktails-5.jpg",
+        "category": "drinks",
+        "price": 200
+    },
+    {
+        "name": "Mangosado Cocktails",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://149761867.v2.pressablecdn.com/wp-content/uploads/2021/10/1800-Mangosado-cocktail.jpeg",
+        "category": "drinks",
+        "price": 250
+    },
+    {
+        "name": "Red Christmas Cocktail",
+        "recipe": "This red Christmas drink is a twist on vodka and cranberry juice, for a festive signature party ...",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/2/2020/12/Christmas-negroni-a3d6d5b.jpg?quality=90&resize=556,505",
+        "category": "drinks",
+        "price": 250
+    },
+    {
+        "name": "Pepperoni Pizza Recipe ",
+        "recipe": "Thin crust flatbread with tuna, red chilli flex, black olives and fresh mozzarella cheese makes it one delightful meal. ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/1200px-Pizza-3007395.jpg",
+        "category": "pizza",
+        "price": 800
+    },
+    {
+        "name": "Minestrone soup ",
+        "recipe": "A classic Italian soup made with seasonal vegetables, pasta, and beans",
+        "image": "https://familystylefood.com/wp-content/uploads/2022/09/Homemade-Minestrone-Soup.jpg",
+        "category": "soup",
+        "price": 380
+    },
+    {
+        "name": "Tuna Olive Pizza",
+        "recipe": "Thin crust flatbread with tuna, red chilli flex, black olives and fresh mozzarella cheese makes it one delightful meal.",
+        "image": "https://secretrecipebd.com/wp-content/uploads/2021/07/pizza_tuna-olive.jpg",
+        "category": "pizza",
+        "price": 850
+    },
+    {
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable  with black olive tapenade crostini",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "category": "offered",
+        "price": 10.5
+    },
+    {
+        "name": "Beetroot & walnut salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://img.taste.com.au/mpXcat2W/w720-h480-cfill-q80/taste/2016/11/walnuts-92809-2.jpeg",
+        "category": "salad",
+        "price": 400
+    },
+    {
+        "name": "Chicken and Walnut ",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "name": "Goi ga (chicken and cabbage salad)",
+        "recipe": "This crunchy chicken salad with aromatic dressing is a filling midday meal.",
+        "image": "https://img.taste.com.au/g8JT3oJd/w720-h480-cfill-q80/taste/2016/11/goi-ga-chicken-and-cabbage-salad-25286-1.jpeg",
+        "category": "salad",
+        "price": 420
+    },
+    {
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
+        "category": "offered",
+        "price": 14.5
+    },
+    {
+        "name": "Cream Of Mushroom Soup",
+        "recipe": "Cream soup served with garlic bread",
+        "image": "https://bakingamoment.com/wp-content/uploads/2022/02/IMG_0668-cream-of-mushroom-soup.jpg",
+        "category": "soup",
+        "price": 350
+    },
+    {
+        "name": "Creamy potato salad with herbs",
+        "recipe": "A simple potato salad that packs a punch of flavour.",
+        "image": "https://img.taste.com.au/euhWOPaH/w720-h480-cfill-q80/taste/2016/11/creamy-potato-salad-with-herbs-3981-1.jpeg",
+        "category": "salad",
+        "price": 450
+    },
+    {
+        "name": " Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.ctfassets.net/j8tkpy1gjhi5/5OvVmigx6VIUsyoKz1EHUs/b8173b7dcfbd6da341ce11bcebfa86ea/Salami-pizza-hero.jpg",
+        "category": "pizza",
+        "price": 900
+    },
+    {
+        "name": "Chicken Corn Soup",
+        "recipe": "Soup made with chicken and sweetcorn",
+        "image": "https://delightfulplate.com/wp-content/uploads/2018/06/Instant-Pot-Pressure-Cooker-Vietnamese-Chicken-Corn-Soup-Sup-ngo-ga-nam-1-768x1152.jpg",
+        "category": "soup",
+        "price": 320
+    },
+    {
+        "name": "Thai Curry Basil Soup",
+        "recipe": "Chillier weather calls for a hearty, flavor-packed soup and this Thai-inspired dish",
+        "image": "https://www.simplotfoods.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F0dkgxhks0leg%2F3qPU9qT4NbqgJWk2RLpZcB%2Fb16c37780cd4db0eb58539d54facec18%2FTF_20FW_22_20Thai_20Curry_20Basil_20Soup_321.jpg%3Ffm%3Dwebp&w=1080&q=75",
+        "category": "soup",
+        "price": 380
+    },
+    {
+        "name": "Udon Noodle Bowl",
+        "recipe": "Cooked Japanese udon pasta, Kyoto Blend, shredded poached ",
+        "image": "https://www.simplotfoods.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F0dkgxhks0leg%2Fv05rpcEBlpGIYCCABPVdV%2F84d8e489b63faf34daaf37b0c62af8ce%2Fudon-noodle-bowl_087.jpg%3Ffm%3Dwebp&w=1080&q=75",
+        "category": "soup",
+        "price": 380
+    },
+    {
+        "name": " Tenderloin Tonkotsu Ramen",
+        "recipe": "Japanese tonkotsu ramen, with pork tenderloin on top! ",
+        "image": "https://www.craftycookbook.com/wp-content/uploads/2023/04/tonkotsu.jpg",
+        "category": "soup",
+        "price": 450
+    },
+    {
+        "name": "Sausage Pizza ",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://www.thecookierookie.com/wp-content/uploads/2023/09/featured-sausage-pizza-recipe.jpg",
+        "category": "pizza",
+        "price": 850
+    },
+    {
+        "name": " Pizza Dough ",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, ",
+        "image": "https://www.recipetineats.com/uploads/2020/05/Pepperoni-Pizza_5.jpg",
+        "category": "pizza",
+        "price": 850
+    },
+    {
+        "name": "Chicken caesar salad",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://img.taste.com.au/zephawkk/w720-h480-cfill-q80/taste/2016/11/chicken-caesar-salad-83105-1.jpeg",
+        "category": "salad",
+        "price": 380
+    },
+    {
+        "name": " Chicken Alfredo Pasta",
+        "recipe": "Warm goats cheese and roasted vegetable  with black olive tapenade crostini",
+        "image": "https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/1:1/w_3607,h_3607,c_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg",
+        "category": "pizza",
+        "price": 320
+    },
+    {
+        "name": "Pasta pomodoro ",
+        "recipe": " braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2024/09/2024D117_ITALIANSEO_POMODORO_2_X-1-768x960.jpg",
+        "category": "pizza",
+        "price": 320
+    },
+    {
+        "name": "Creamy Pasta Sauce",
+        "recipe": "Creamy pasta sauce is tender noodles tossed in a flavorful tomato sauce. This recipe is very similar",
+        "image": "https://www.kimscravings.com/wp-content/uploads/2022/12/creamy-pasta-sauce-recipe-featured.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "name": " Chicken Ramen",
+        "recipe": "This warm, comforting bowl of homemade chicken ramen is made with tender chicken, noodles,",
+        "image": "https://www.modernhoney.com/wp-content/uploads/2024/01/Homemade-Chicken-Ramen-1-crop-scaled.jpg",
+        "category": "soup",
+        "price": 350
+    },
+    {
+        "name": "Garlicky Crab and Brown Butter Pasta",
+        "recipe": "The classic combination of crab, butter, garlic and lemon come together ...",
+        "image": "https://static01.nyt.com/images/2024/03/28/multimedia/ct-crab-pasta-tkpc/ct-crab-pasta-tkpc-threeByTwoMediumAt2X-v3.jpg",
+        "category": "pizza",
+        "price": 300
+    },
+    {
+        "name": " Lemon Butter Herb Pasta ",
+        "recipe": "A quick, delicious, and light pasta sauce with a lemon-butter flavor to toss with any pasta. This",
+        "image": "https://www.allrecipes.com/thmb/FqJTy21nFY40JehQt590Gn3GC1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/236715-Lemon-Butter-Herb-Pasta-DDMFS-4x3-dc9dd70763b844e090cf4e8a56382aff.jpg",
+        "category": "pizza",
+        "price": 300
+    },
+    {
+        "name": "Asian-style chopped salad",
+        "recipe": "Take the best produce of summer produce and chop up this fresh Asian-style salad.",
+        "image": "https://img.taste.com.au/A6PujLYC/w720-h480-cfill-q80/taste/2016/11/asian-style-chopped-salad-83466-1.jpeg",
+        "category": "salad",
+        "price": 400
+    },
+    {
+        "name": "Authentic soy sauce ramen",
+        "recipe": "In Japan the most typical topping on Ramen are Ajitama (boiled eggs marinated with sweet soy",
+        "image": "https://www.killingthyme.net/wp-content/uploads/2022/03/spicy-shoyu-ramen-4.jpg",
+        "category": "soup",
+        "price": 450
+    },
+    {
+        "name": "Garlic Pasta",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, ",
+        "image": "https://www.allrecipes.com/thmb/KJZtk0Yjq4sseBFzKSsmTWD7Smk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-21339-garlic-pasta-ddmfs-3x4-13719-4b6849cc528b4dc0a0349c13b6483047.jpg",
+        "category": "pizza",
+        "price": 300
+    },
+    {
+        "name": "Escalope de Veau",
+        "recipe": "Garlic pasta made with a whole head of garlic is for ideal for allium lovers! Parmesan cheese, ",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "category": "offered",
+        "price": 12.5
+    },
+    {
+        "name": "Masala Pasta with Chicken and Cheese",
+        "recipe": "Pasta made with Indian flavours - An Indian Street food favourite. This is the pasta we  ",
+        "image": "https://tiffinandteaofficial.com/wp-content/uploads/2021/01/IMG_3812-1-scaled-e1670948948885.jpg",
+        "category": "pizza",
+        "price": 300
+    },
+    {
+        "name": " Pasta Bake",
+        "recipe": "Pasta Bake This recipe for a Simple Pasta Bake features ingredients from around ",
+        "image": "https://www.sac.coop/wp-content/uploads/2024/03/Simple-Pasta-Bake.webp",
+        "category": "pizza",
+        "price": 320
+    },
+    {
+        "name": "Crunchy noodle salad",
+        "recipe": "This side salad recipe is just the tip of the iceburg using lettuce and fried noodles.",
+        "image": "https://img.taste.com.au/sKBAJFEl/w720-h480-cfill-q80/taste/2016/11/crunchy-noodle-salad-87211-1.jpeg",
+        "category": "salad",
+        "price": 400
+    },
+    {
+        "name": "Ramen Noodle Soup",
+        "recipe": "This classic ramen noodle soup is so much better than the packaged! Made with extra vegetables li",
+        "image": "https://thehintofrosemary.com/wp-content/uploads/2020/02/ramen-cover-scaled.jpg",
+        "category": "soup",
+        "price": 420
+    },
+    {
+        "name": "Chili Lime Shrimp Ramen Soup",
+        "recipe": "Warm goats cheese and roasted vegetable  with black olive tapenade crostini",
+        "image": "https://www.modernfarmhouseeats.com/wp-content/uploads/2021/03/chili-lime-shrimp-ramen-2-scaled.jpg",
+        "category": "soup",
+        "price": 450
+    },
+    {
+        "name": "Steakhouse Menu",
+        "recipe": "Pan-seared to enjoy plain or with our famous peri-peri cream sauce.",
+        "image": "https://turnntender.co.za/wp-content/uploads/2023/10/143898-Turn-N-Tender-TnT-Set-Menu-Desktop-Mobile-960-x-800px_P1LM.jpg",
+        "category": "popular",
+        "price": 550
+    },
+    {
+        "name": " Feasting Set Menu",
+        "recipe": "Pan-seared to enjoy plain or with our famous peri-peri cream sauce.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/e9/1c/4b/share-feasting-set-menu.jpg",
+        "category": "popular",
+        "price": 600
+    },
+    {
+        "name": "Turn 'n Tender Bryanston",
+        "recipe": "Pan-seared to enjoy plain or with our famous peri-peri cream sauce.",
+        "image": "https://specialsza.co.za/wp-content/uploads/2021/11/t2.jpg",
+        "category": "popular",
+        "price": 1200
+    },
+    {
+        "name": "Turn 'n Tender",
+        "recipe": "Best Steakhouse in Jean Avenue Centurion | Turn 'n Tender",
+        "image": "https://dynl.mktgcdn.com/p/l_W4IvuiyQSc4lgiTbN9S54hnLarUURZypGePxUPM6I/1280x720.jpg",
+        "category": "popular",
+        "price": 600
+    },
+    {
+        "name": "Chinese food set menu",
+        "recipe": "Chinese food set menu Fried rice, fried chicken, chicken sizzling",
+        "image": "https://img.freepik.com/premium-photo/special-food-set-menu-fried-chicken-fried-rice-mixed-vegetable-served-dish-isolated-background-top-view-bangladesh-indian-food_689047-5455.jpg",
+        "category": "popular",
+        "price": 400
+    },
+    {
+        "name": "Chinese food set menu",
+        "recipe": "Chinese food set menu Fried rice fried shrimp and prawn chicken sizzling mixed vegetable tomato capsicum",
+        "image": "https://img.freepik.com/premium-photo/chinese-food-set-menu-fried-rice-fried-shrimp-prawn-chicken-sizzling-mixed-vegetable-tomato-capsicum-carrot-spring-onion-served-dish-isolated-top-view-bangladesh-indian-food_689047-5541.jpg",
+        "category": "popular",
+        "price": 400
+    },
+    {
+        "name": " Jom Jom Kacchi Biryani ",
+        "recipe": "Roaste Jom Jom Kacchi Biryani Jom Jom Kacchi Biryani d",
+        "image": "https://images.deliveryhero.io/image/fd-bd/LH/wkzb-listing.jpg",
+        "category": "popular",
+        "price": 280
+    },
+    {
+        "name": " The Grand Kacchi ",
+        "recipe": "Roasted",
+        "image": "https://images.deliveryhero.io/image/fd-bd/LH/f40s-listing.jpg",
+        "category": "popular",
+        "price": 990
+    },
+    {
+        "name": " Mutton Kacchi Biryani",
+        "recipe": "Roa Mutton Kacchi Biryani sted",
+        "image": "https://media.istockphoto.com/id/2164869598/photo/kacchi-biryani-bronze-dish.jpg?s=612x612&w=0&k=20&c=lmFccYRb5rI6yXkhNAtMoVFnVk0g7i7e4lu_VSH7aIw=",
+        "category": "popular",
+        "price": 350
+    },
+    {
+        "name": " Chinese set menu",
+        "recipe": "Chinese food set menu Fried rice, fried shrimp and prawn, chicken sizzling, mixed",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/041/910/216/small_2x/chinese-food-set-menu-fried-rice-korean-fried-chicken-chicken-skewer-and-tomato-served-in-dish-isolated-on-background-top-view-of-bangladesh-and-indian-food-photo.jpg",
+        "category": "popular",
+        "price": 350
+    },
+    {
+        "name": "   Special Food Set Menu ",
+        "recipe": "Chinese food set menu Fried rice, fried shrimp and prawn, chicken sizzling, mixed",
+        "image": "https://img.freepik.com/premium-photo/special-food-set-menu-fried-chicken-fried-rice-mixed-vegetable-served-dish-isolated-background-top-view-bangladesh-indian-food_689047-5455.jpg",
+        "category": "popular",
+        "price": 400
+    },
+
+    {
+        "name": " Fried Ice Cream ",
+        "recipe": "Skip the frying and enjoy this no fry Easy Fried Ice Cream with much less fuss at home",
+        "image": "https://www.melissassouthernstylekitchen.com/wp-content/uploads/2021/05/best-recipe-for-no-fry-Fried-Ice-Cream.jpg",
+        "category": "dessert",
+        "price": 180
+    },
+    {
+        "name": "Ice Cream Sandwich Cake ",
+        "recipe": "Whether served as an indulgent dessert for a hot summer day or as a super-fun birthday party ca",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Ice-Cream-Sandwich-Dessert_EXPS_FT22_27091_ST_09_07_1.jpg",
+        "category": "dessert",
+        "price": 200
+    },
+    {
+        "name": "Chocolate Hazelnut Dessert  ",
+        "recipe": "Chocolate  Dessert i Hazelnut  in a glass",
+        "image": "https://prettysweetblog.com/wp-content/uploads/2021/01/No-bake-chocolate-hazelnut-dessert-in-a-glass-1-680x1024.jpg",
+        "category": "dessert",
+        "price": 220
+    },
+    {
+        "name": "Vegan Creme Caramel ",
+        "recipe": "Super creamy vanilla creme caramel topped with a rich salted caramel sauce. It melts in your mout",
+        "image": "https://fullofplants.com/wp-content/uploads/2019/05/how-to-make-vegan-creme-caramel-dairy-free-flan-eggless-thumb.jpg",
+        "category": "dessert",
+        "price": 120
+    },
+    {
+        "name": " Coconut-Caramel Ice Cream ",
+        "recipe": "No-Bake Coconut-Caramel Ice Cream Sandwich Dessert",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0D8d6tvT6ufyKrB4VtAoKUGeZyukqxoxg0pbHtuOtBAgkLzn3-mqvTwrhkP6aLBQLUqcX3-BTzffV-IK38yc7_3Xkt5gkWi-VjoZi-dWeI7krVz3LHP7cs9hrGGb5yWBZ-TlRvlZfvE0/s800/Coconut-Caramel-Ice-Cream-Sandwich-Dessert-Image+3.JPG",
+        "category": "dessert",
+        "price": 150
+    },
+    {
+        "name": "Dessert Shells with Macerated  ",
+        "recipe": "Dessert Shells with Macerated Mixed Berries",
+        "image": "https://sweetsavoryandsteph.com/wp-content/uploads/2020/09/IMG_2664-scaled.jpg",
+        "category": "dessert",
+        "price": 180
+    },
+    {
+        "name": "Ice Cream Sundae ",
+        "recipe": "the perfect frozen dessert with all the best toppings like caramel sauce, chocolate ganache",
+        "image": "https://dinnerthendessert.com/wp-content/uploads/2021/02/Ice-Cream-Sundae.jpg",
+        "category": "dessert",
+        "price": 180
+    },
+    {
+        "name": "Black Forest Ice Cream Sundaes ",
+        "recipe": "An absolutely decadent ice cream with cherries and ribbons of chocolate throughout. ",
+        "image": "https://creative-culinary.com/wp-content/uploads/black-forest-ice-cream-2.jpg",
+        "category": "dessert",
+        "price": 200
+    },
+    {
+        "name": "Brownie Sundae ",
+        "recipe": "The ultimate fudgy brownie sundae that is easier than Sunday morning",
+        "image": "https://cookienameddesire.com/wp-content/uploads/2018/05/brownie-sundae.jpg",
+        "category": "dessert",
+        "price": 200
+    }
+  
+]
