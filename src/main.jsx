@@ -15,14 +15,7 @@ import {
 
 const queryClient = new QueryClient();
 createRoot(document.getElementById("root")).render(
-  // <StrictMode>
-  //   <AuthProvider>
-  //     <HelmetProvider>
-  //       <RouterProvider router={router}>{/* <App /> */}</RouterProvider>
-  //       <Toaster />
-  //     </HelmetProvider>
-  //   </AuthProvider>
-  // </StrictMode>
+ 
   <HelmetProvider>
   <QueryClientProvider client={queryClient}>
     <AuthProvider>

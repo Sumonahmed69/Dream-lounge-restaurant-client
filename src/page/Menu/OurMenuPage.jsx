@@ -9,8 +9,6 @@ const OurMenuPage = () => {
     "https://images.unsplash.com/photo-1635342663404-5438d5c385af?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
   const img2 =
     "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
-  const img3 =
-    "https://plus.unsplash.com/premium_photo-1700746099932-acdea8954da7?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
   const img4 =
     "https://images.unsplash.com/photo-1590947132387-155cc02f3212?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
   const img5 =
@@ -20,19 +18,13 @@ const OurMenuPage = () => {
   const img7 =
     "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=1257&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 
-  const {menu} = useMenu();
+  const { menu } = useMenu();
   const offered = menu.filter((item) => item.category === "offered");
   const salad = menu.filter((item) => item.category === "salad");
   const drinks = menu.filter((item) => item.category === "drinks");
   const pizza = menu.filter((item) => item.category === "pizza");
   const soup = menu.filter((item) => item.category === "soup");
   const dessert = menu.filter((item) => item.category === "dessert");
-
-  // const desserts = menu.filter(item => item.category === 'dessert');
-  // const soup = menu.filter(item => item.category === 'soup');
-  // const salad = menu.filter(item => item.category === 'salad');
-  // const pizza = menu.filter(item => item.category === 'pizza');
-  // const offered = menu.filter(item => item.category === 'offered');
 
   return (
     <div>
@@ -46,11 +38,7 @@ const OurMenuPage = () => {
       ></SectionTitle>
 
       <MenuCategory items={offered}></MenuCategory>
-      <MenuCategory
-        items={pizza}
-        title={"pizza"}
-        img={img4}
-      ></MenuCategory>
+      <MenuCategory items={pizza} title={"pizza"} img={img4}></MenuCategory>
       <MenuCategory items={soup} title={"soup"} img={img2}></MenuCategory>
       <MenuCategory items={salad} title={"salad"} img={img5}></MenuCategory>
       <MenuCategory items={dessert} title={"dessert"} img={img6}></MenuCategory>
