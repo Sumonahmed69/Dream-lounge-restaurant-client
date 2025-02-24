@@ -6,6 +6,7 @@ import { AuthContext } from "../../../provider/AuthProvider";
 import { GiMilkCarton } from "react-icons/gi";
 import useCart from "../../../hooks/useCart";
 import useAdmin from "../../../hooks/useAdmin";
+import { FaCartPlus } from "react-icons/fa";
 const Navbar = () => {
   const { user, logOut } = useContext(AuthContext);
   const [cart] = useCart();
@@ -39,8 +40,9 @@ const Navbar = () => {
       <li>
         <Link to="/dashboard/cart">
           <button className=" flex items-center">
-            <GiMilkCarton className="mr-2 h-6 w-6" />
-            <div className="badge badge-primary">+{cart.length}</div>
+            <FaCartPlus className="mr-1"  />
+
+            <div className="badge badge-primary">{cart.length}</div>
           </button>
         </Link>
       </li>
@@ -112,7 +114,6 @@ const Navbar = () => {
             {navOptions}
           </ul>
         </div>
-        {/* <div className="navbar-end"><a className="btn">Button</a></div> */}
       </div>
     </div>
   );

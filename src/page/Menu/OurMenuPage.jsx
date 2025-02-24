@@ -19,12 +19,15 @@ const OurMenuPage = () => {
     "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=1257&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 
   const { menu } = useMenu();
+  const popular = menu.filter((item) => item.category === "popular");
   const offered = menu.filter((item) => item.category === "offered");
   const salad = menu.filter((item) => item.category === "salad");
   const drinks = menu.filter((item) => item.category === "drinks");
   const pizza = menu.filter((item) => item.category === "pizza");
   const soup = menu.filter((item) => item.category === "soup");
   const dessert = menu.filter((item) => item.category === "dessert");
+
+ 
 
   return (
     <div>
@@ -37,7 +40,8 @@ const OurMenuPage = () => {
         heading={" Today's Offer"}
       ></SectionTitle>
 
-      <MenuCategory items={offered}></MenuCategory>
+      <MenuCategory items={popular} ></MenuCategory>
+      <MenuCategory items={offered} title={"offered"} img={img5}></MenuCategory>
       <MenuCategory items={pizza} title={"pizza"} img={img4}></MenuCategory>
       <MenuCategory items={soup} title={"soup"} img={img2}></MenuCategory>
       <MenuCategory items={salad} title={"salad"} img={img5}></MenuCategory>

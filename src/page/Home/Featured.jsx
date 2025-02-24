@@ -30,19 +30,27 @@ const Featured = () => {
         </div>
 
         <div className="mx-5 p-3">
-          <p>April 20, 2025</p>
+          <p>April 20, 2020</p>
           <p className="uppercase">Where can i get some?</p>
           <p>
-            Authoritatively synergize flexible customer service whereas turnkey
-            niche markets. Dynamically evisculate market-driven data vis-a-vis
-            virtual innovation. Assertively cultivate customer directed sources
-            after customized networks.
+          Discover a world of culinary delights at Pizza Hut BD!
+           From mouthwatering pizzas to indulgent pasta,
+           tempting appetizers, and delightful desserts
+           <br />
+
+           Get food delivered in Dhaka with <span className="text-orange-500 font-bold">Dream Lounge Restaurant </span>
+           <br />
+           ✓ Delivery to your home or office 
+           <br />
+           ✓ Safe and easy payment options.
+
+
           </p>
           
           <div className=" my-12  justify-start flex ">
-            <h1 className=" uppercase text-xl pb-3 px-3 rounded-lg border-b-2 hover:border-black">
+            {/* <h1 className=" uppercase text-xl pb-3 px-3 rounded-lg border-b-2 hover:border-black">
               read more
-            </h1>
+            </h1> */}
           </div>
         </div>
       </div>

@@ -28,7 +28,7 @@ const FoodCategory = () => {
             alt=""
           />
           <h3 className="text-4xl uppercase text-center -mt-16 text-white">
-            Salads
+            Burgger
           </h3>
         </SwiperSlide>
         <SwiperSlide>
@@ -37,7 +37,7 @@ const FoodCategory = () => {
             alt=""
           />
           <h3 className="text-4xl uppercase text-center -mt-16 text-white">
-            Pizzas
+            Beefsteak
           </h3>
         </SwiperSlide>
         <SwiperSlide>
@@ -46,7 +46,7 @@ const FoodCategory = () => {
             alt=""
           />
           <h3 className="text-4xl uppercase text-center -mt-16 text-white">
-            Soups
+            Ramen
           </h3>
         </SwiperSlide>
         <SwiperSlide>
@@ -73,7 +73,7 @@ const FoodCategory = () => {
             alt=""
           />
           <h3 className="text-4xl uppercase text-center -mt-16 text-white">
-            Salads
+            Noodle
           </h3>
         </SwiperSlide>
         <SwiperSlide>
@@ -82,16 +82,7 @@ const FoodCategory = () => {
             alt=""
           />
           <h3 className="text-4xl uppercase text-center -mt-16 text-white">
-            Salads
-          </h3>
-        </SwiperSlide>
-        <SwiperSlide>
-          <img
-            src="https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            alt=""
-          />
-          <h3 className="text-4xl uppercase text-center -mt-16 text-white">
-            Salads
+            Desserts
           </h3>
         </SwiperSlide>
       </Swiper>

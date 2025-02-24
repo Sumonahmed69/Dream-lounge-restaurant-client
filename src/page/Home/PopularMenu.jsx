@@ -26,11 +26,11 @@ const PopularMenu = () => {
       </div>
 
       <div className=" my-12 items-center justify-center flex ">
-        <h1
+        {/* <h1
           className="text-xl pb-3 px-3 rounded-lg border-b-2 hover:border-black"
         >
           VIEW FULL MENU
-        </h1>
+        </h1> */}
       </div>
     </section>
   );

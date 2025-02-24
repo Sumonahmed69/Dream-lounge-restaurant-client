@@ -34,7 +34,7 @@ const Cart = () => {
     });
   };
   return (
-    <div>
+    <div className=" p-4 sm:ml-64 flex gap-2 mt-14 flex-col  translate-all">
       <div className="flex justify-evenly mb-8">
         <h2 className="text-4xl">Items: {cart.length}</h2>
         <h2 className="text-4xl">Total Price: {totalPrice}</h2>

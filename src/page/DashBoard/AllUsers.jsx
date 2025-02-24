@@ -59,7 +59,7 @@ const AllUsers = () => {
   };
 
   return (
-    <div>
+    <div className=" p-4 sm:ml-64 flex gap-2 mt-14 flex-col  translate-all">
       <div>
         <div className="flex justify-evenly my-4">
           <h2 className="text-3xl">All Users</h2>

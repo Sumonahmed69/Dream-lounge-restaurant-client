@@ -6,15 +6,25 @@ import OderTab from "./OderTab";
 import { useParams } from "react-router";
 import { useState } from "react";
 const OrderPage = () => {
-  const categories = ["pizza", "soup", "dessert", "salad", "drinks"];
+  const categories = [
+    "popular",
+    "offered",
+    "pizza",
+    "soup",
+    "dessert",
+    "salad",
+    "drinks",
+  ];
   const { category } = useParams();
   const initialIndex = categories.indexOf(category);
   const [tabIndex, setTabIndex] = useState(initialIndex);
-  const {menu} = useMenu();
-
-
+  const { menu } = useMenu();
 
   console.log(category);
+  //new category add
+
+  const popular = menu.filter((item) => item.category === "popular");
+  const offered = menu.filter((item) => item.category === "offered");
   const salad = menu.filter((item) => item.category === "salad");
   const drinks = menu.filter((item) => item.category === "drinks");
   const pizza = menu.filter((item) => item.category === "pizza");
@@ -36,6 +46,8 @@ const OrderPage = () => {
             className="flex flex-col  items-center"
           >
             <TabList>
+              <Tab>Popular</Tab>
+              <Tab>Offered</Tab>
               <Tab>Pizza</Tab>
               <Tab>Soup</Tab>
               <Tab>Dessert </Tab>
@@ -43,6 +55,12 @@ const OrderPage = () => {
               <Tab>Drinks</Tab>
             </TabList>
 
+            <TabPanel>
+              <OderTab items={popular}></OderTab>
+            </TabPanel>
+            <TabPanel>
+              <OderTab items={offered}></OderTab>
+            </TabPanel>
             <TabPanel>
               <OderTab items={pizza}></OderTab>
             </TabPanel>

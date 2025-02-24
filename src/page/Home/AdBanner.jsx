@@ -1,3 +1,5 @@
+import { Link } from "react-router";
+
 const AdBanner = () => {
   return (
     <div className="my-20 pt-8 container mx-auto ">
@@ -14,7 +16,8 @@ const AdBanner = () => {
               <span className="font-bold  text-slate-100 text-lg">Yummy </span>
             </div>
            
-            <button className="btn hover:btn-outline  "> Oder Now</button>
+           <Link to='/menu'>
+           <button className="btn hover:btn-outline  "> Oder Now</button></Link>
           </div>
         </div>
       </div>

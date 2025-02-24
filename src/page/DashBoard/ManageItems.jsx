@@ -38,7 +38,7 @@ const ManageItems = () => {
   };
 
   return (
-    <div>
+    <div className=" p-4 sm:ml-64 flex gap-2 mt-14 flex-col translate-all">
       <SectionTitle
         heading="Manage All Items"
         subHeading="Hurry up"
@@ -74,7 +74,7 @@ const ManageItems = () => {
                     </div>
                   </td>
                   <td>{item.name}</td>
-                  <td className="text-right">${item.price}</td>
+                  <td className="text-right">TK-{item.price}</td>
                   <td>
                     <Link to={`/dashboard/updateItem/${item._id}`}>
                       <button className="btn btn-ghost btn-lg bg-orange-500">

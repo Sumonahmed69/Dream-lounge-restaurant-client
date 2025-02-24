@@ -15,7 +15,7 @@ const Cover = ({ img, title }) => {
               {title}
             </h2>
             <div className="space-x-2 text-center  text-white  py-2 lg:py-0">
-              <span> Provident cupiditate voluptatem et in.</span>
+              <span> Fresh Ingredients, Timeless Flavors.</span>
               <span className="font-bold  text-slate-100 text-lg">Yummy </span>
             </div>
           </div>

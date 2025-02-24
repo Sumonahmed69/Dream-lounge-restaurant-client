@@ -9,8 +9,6 @@ import {
   Pie,
   Legend,
 } from "recharts";
-import { useContext } from "react";
-import { AuthContext } from "../../../provider/AuthProvider";
 import useAxiosSercure from "../../../hooks/useAxiosSercure";
 import { useQuery } from "@tanstack/react-query";
 import { FaBook, FaDollarSign, FaUsers } from "react-icons/fa";
@@ -19,7 +17,6 @@ const colors = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042", "red", "pink"];
 const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042"];
 
 const AdminHome = () => {
-  const { user } = useContext(AuthContext);
   const axiosSecure = useAxiosSercure();
 
   const { data: stats = {} } = useQuery({
@@ -89,11 +86,7 @@ const AdminHome = () => {
   });
 
   return (
-    <div>
-      <h2 className="text-3xl">
-        <span>Hi, Welcome </span>
-        {user?.displayName ? user.displayName : "Back"}
-      </h2>
+    <div className=" p-4 sm:ml-64 flex gap-2 mt-14 flex-col  translate-all">
       <div className="stats shadow">
         <div className="stat">
           <div className="stat-figure text-success">
@@ -101,7 +94,6 @@ const AdminHome = () => {
           </div>
           <div className="stat-title">Revenue</div>
           <div className="stat-value">${stats.revenue}</div>
-          {/* <div className="stat-desc">Jan 1st - Feb 1st</div> */}
         </div>
 
         <div className="stat">
@@ -110,7 +102,6 @@ const AdminHome = () => {
           </div>
           <div className="stat-title">Users</div>
           <div className="stat-value">{stats.users}</div>
-          {/* <div className="stat-desc">↗︎ 400 (22%)</div> */}
         </div>
 
         <div className="stat">
@@ -119,7 +110,6 @@ const AdminHome = () => {
           </div>
           <div className="stat-title">Menu Items</div>
           <div className="stat-value">{stats.menuItems}</div>
-          {/* <div className="stat-desc">↗︎ 400 (22%)</div> */}
         </div>
 
         <div className="stat">

@@ -50,7 +50,7 @@ const AddItems = () => {
     console.log("with image url", res.data);
   };
   return (
-    <div>
+    <div className=" p-4 sm:ml-64 flex gap-2 mt-14 flex-col  translate-all">
       <SectionTitle
         heading="add an item"
         subHeading="What's new?"
@@ -83,9 +83,11 @@ const AddItems = () => {
                 <option disabled value="default">
                   Select a category
                 </option>
-                <option value="salad">Salad</option>
+                <option value="popular">Popular</option>
+                <option value="offered">Offered</option>
                 <option value="pizza">Pizza</option>
                 <option value="soup">Soup</option>
+                <option value="salad">Salad</option>
                 <option value="dessert">Dessert</option>
                 <option value="drinks">Drinks</option>
               </select>

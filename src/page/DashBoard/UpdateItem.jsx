@@ -54,7 +54,7 @@ const UpdateItem = () => {
   };
 
   return (
-    <div>
+    <div className=" p-4 sm:ml-64 flex gap-2 mt-14 flex-col  translate-all">
       <SectionTitle
         heading="Update an Item"
         subHeading="Refresh info"
@@ -88,9 +88,11 @@ const UpdateItem = () => {
                 <option disabled value="default">
                   Select a category
                 </option>
-                <option value="salad">Salad</option>
+                <option value="popular">Popular</option>
+                <option value="offered">Offered</option>
                 <option value="pizza">Pizza</option>
                 <option value="soup">Soup</option>
+                <option value="salad">Salad</option>
                 <option value="dessert">Dessert</option>
                 <option value="drinks">Drinks</option>
               </select>

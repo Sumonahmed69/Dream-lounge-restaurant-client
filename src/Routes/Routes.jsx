@@ -41,12 +41,7 @@ export const router = createBrowserRouter([
       },
       {
         path: "/contact",
-        element: (
-          <PrivateRoute>
-            {" "}
-            <ContactPage></ContactPage>
-          </PrivateRoute>
-        ),
+        element: <ContactPage></ContactPage>,
       },
     ],
   },
@@ -60,25 +55,29 @@ export const router = createBrowserRouter([
     children: [
       // normal user routes
       {
-        path: 'userHome',
-        element: <UserHome></UserHome>
+        path: "userHome",
+        element: <UserHome></UserHome>,
       },
       {
         path: "cart",
         element: <Cart></Cart>,
       },
       {
-        path: 'payment',
-        element: <Payment></Payment>
+        path: "payment",
+        element: <Payment></Payment>,
       },
       {
-        path: 'paymentHistory',
-        element: <PaymentHistory></PaymentHistory>
+        path: "paymentHistory",
+        element: <PaymentHistory></PaymentHistory>,
       },
       // admin only routes
       {
-        path: 'adminHome',
-        element: <AdminRoute><AdminHome></AdminHome></AdminRoute>
+        path: "adminHome",
+        element: (
+          <AdminRoute>
+            <AdminHome></AdminHome>
+          </AdminRoute>
+        ),
       },
       {
         path: "addItems",
